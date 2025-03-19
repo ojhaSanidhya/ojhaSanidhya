@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with **➡️ Enhancing my AWS and backend development skills ☁️**
 
-- 👨‍💻 All of my projects are available at [🔗 https://github.com/ojhaSanidhya?tab=repositories](🔗 https://github.com/ojhaSanidhya?tab=repositories)
+- 👨‍💻 All of my projects are available at 🔗 https://github.com/ojhaSanidhya?tab=repositories
 
-- 📝 I regularly write articles on [➡️ Coming Soon... (Maybe Dev.to, Hashnode, or LinkedIn articles?)](➡️ Coming Soon... (Maybe Dev.to, Hashnode, or LinkedIn articles?))
+- 📝 I regularly write articles on ➡️ Coming Soon... (Maybe Dev.to, Hashnode, or LinkedIn articles?
 
 - 💬 Ask me about **➡️ ReactJS, C++, JavaScript, Web Development, and AWS 💻**
 
